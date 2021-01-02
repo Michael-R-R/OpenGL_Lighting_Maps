@@ -1,5 +1,6 @@
 # OpenGL_Lighting_Maps
 Example of basic lighting maps - Diffuse/Specular
+
 Images used from https://learnopengl.com/Lighting/Lighting-maps
 
 Demostrated using diffuse lighting maps and specular lighting maps.
